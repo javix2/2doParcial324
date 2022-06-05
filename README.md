@@ -1,1 +1,4 @@
-# 2doParcial324
+Programacion Multimedial
+segundo parcial
+-workFlow
+-texturas
